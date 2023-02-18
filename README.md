@@ -2,7 +2,7 @@
 
 ![Hello there](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZK_DQ-b6-YlqyrGzxdZQNVwo_GlM65NMqwg&usqp=CAU)
 
-- 🔭 Actualmente imparto clases en los siguientes módulos de Grado Superior en DAM y DAW
+🔭 Actualmente imparto clases en los siguientes módulos de Grado Superior en DAM y DAW
 
 * PROGRAMACIÓN
 * BASES DE DATOS
@@ -11,6 +11,9 @@
 * PROGRAMACIÓN MULTIMEDIA
 * DESARROLLO DE VIDEOJUEGOS
 
+> HERE WE GO
+
+![HERE WE GO](https://github.com/crufiangel/crufiangel/blob/main/assets/here%20we%20go.jpg))
 
 
 <!--
